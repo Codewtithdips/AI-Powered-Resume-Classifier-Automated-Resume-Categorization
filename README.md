@@ -7,7 +7,7 @@ This project automates the process of categorizing resumes using Natural Languag
 
 
 ## 🎥 Demo Video
-Watch the demo video of how the project works:
+# Watch the demo video of how the project works:
 
 [![Watch the video](s.PNG)](https://youtu.be/nDdps-DpMRo)
 
