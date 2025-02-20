@@ -9,7 +9,7 @@ This project automates the process of categorizing resumes using Natural Languag
 ## 🎥 Demo Video
 Watch the demo video of how the project works:
 
-[![Watch the video](https://img.youtube.com/vi/nDdps-DpMRo/maxresdefault.jpg)](https://youtu.be/nDdps-DpMRo)
+[![Watch the video](images.png)](https://youtu.be/nDdps-DpMRo)
 
 
 ## 📂 Directory Structure
