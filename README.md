@@ -6,7 +6,10 @@ An automated system that extracts, cleans, and categorizes resumes using NLP and
 This project automates the process of categorizing resumes using Natural Language Processing (NLP) and Machine Learning (ML). It extracts text from resume PDFs, cleans and preprocesses the text, and classifies resumes into predefined job categories using a trained ML model. Once categorized, resumes are automatically moved into respective folders, and a CSV report is generated for easy tracking. The project leverages PyPDF2 for text extraction, NLTK for preprocessing, and Scikit-learn for classification. It streamlines the hiring process by organizing resumes efficiently, making it an essential tool for recruiters and HR professionals. 
 
 ## 🎥 Demo Video
-Watch the demo video of how the project works: [YouTube Video](https://youtu.be/nDdps-DpMRo)
+Watch the demo video of how the project works:
+
+[![Watch the video](https://img.youtube.com/vi/nDdps-DpMRo/maxresdefault.jpg)](https://youtu.be/nDdps-DpMRo)
+
 
 ## 📂 Directory Structure
 
