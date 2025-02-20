@@ -19,6 +19,19 @@ This project automates the process of categorizing resumes using Natural Languag
 ```
 
 
+## 📝 Description
+This project employs various machine learning models and a deep learning approach to identify job categories from resumes. Using datasets, resumes are processed and classified using models such as:
+
+- Random Forest Classifier
+- Logistic Regression
+- K-Nearest Neighbor
+- Support Vector Machine (SVM)
+- Deep Learning: Artificial Neural Networks (ANN) and Long Short-Term Memory (LSTM)
+
+The model training is performed on preprocessed data, and the results are used to create a functional script that categorizes resumes automatically.
+
+
+
 ## 📂 Dataset
 - **Source**: [GitHub - Sbhawal/resumeScraper](https://github.com/Sbhawal/resumeScraper)
 - **Description**: The dataset contains resumes from different professional fields, including Advocate, Information Technology, and more.
