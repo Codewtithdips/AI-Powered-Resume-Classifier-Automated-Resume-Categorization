@@ -4,6 +4,21 @@ An automated system that extracts, cleans, and categorizes resumes using NLP and
 ## 📌 Project Overview
 This project automates the process of categorizing resumes using Natural Language Processing (NLP) and Machine Learning (ML). It extracts text from resume PDFs, cleans and preprocesses the text, and classifies resumes into predefined job categories using a trained ML model. Once categorized, resumes are automatically moved into respective folders, and a CSV report is generated for easy tracking. The project leverages PyPDF2 for text extraction, NLTK for preprocessing, and Scikit-learn for classification. It streamlines the hiring process by organizing resumes efficiently, making it an essential tool for recruiters and HR professionals. 
 
+## 📂 Directory Structure
+
+```
+📦 Resume Classifier
+├── 📂 Raw Resumes                # Folder containing raw resume PDFs
+├── 📂 Resume                     # Processed resumes directory
+├── 📜 README.md                   # Project documentation
+├── 📜 best_clf.pkl                # Trained classifier model
+├── 📜 requirements.txt            # Dependencies and requirements
+├── 📜 resume_categorization.ipynb # Jupyter Notebook for analysis
+├── 📜 script.py                   # Main script for resume classification
+├── 📜 tfidf.pkl                    # TF-IDF vectorizer model
+```
+
+
 ## 📂 Dataset
 - **Source**: [GitHub - Sbhawal/resumeScraper](https://github.com/Sbhawal/resumeScraper)
 - **Description**: The dataset contains resumes from different professional fields, including Advocate, Information Technology, and more.
@@ -55,23 +70,7 @@ To run this project locally, follow these steps:
    python script.py
    ```
 
-## 📂 Directory Structure
-
-```
-📦 Resume Classifier
-├── 📂 Raw Resumes                # Folder containing raw resume PDFs
-├── 📂 Resume                     # Processed resumes directory
-├── 📜 README.md                   # Project documentation
-├── 📜 best_clf.pkl                # Trained classifier model
-├── 📜 requirements.txt            # Dependencies and requirements
-├── 📜 resume_categorization.ipynb # Jupyter Notebook for analysis
-├── 📜 script.py                   # Main script for resume classification
-├── 📜 tfidf.pkl                    # TF-IDF vectorizer model
-```
-
-
-
 ## 📞 Contact
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Email**: your-email@example.com
+- **GitHub**: [My GitHub Profile](https://github.com/Codewtithdips)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/dipankardebnath-/)
+- **Email**: debnathdpankar27@gmail.com
