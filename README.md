@@ -55,31 +55,18 @@ To run this project locally, follow these steps:
    python script.py
    ```
 
-## 📊 Exploratory Data Analysis (EDA)
-- Data Cleaning & Handling Missing Values
-- Feature Engineering & Encoding Categorical Variables
-- Data Visualization (Histograms, Correlation Heatmaps, Boxplots)
+## 📂 Directory Structure
 
-## 🤖 Model Building & Evaluation
-- Train-Test Split
-- Model Selection & Hyperparameter Tuning
-- Performance Metrics: Accuracy, Precision, Recall, F1-Score, ROC-AUC Curve
-
-## 📌 Results & Findings
-- Best performing model: **(mention model name with highest accuracy or best metric)**
-- Key insights from feature importance
-- Business recommendations based on results
-
-## 📁 Directory Structure
 ```
-📂 customer-churn-prediction
-│-- 📄 README.md
-│-- 📂 data (Dataset files)
-│-- 📂 notebooks (Jupyter notebooks)
-│-- 📂 src (Python scripts for preprocessing & modeling)
-│-- 📂 models (Saved trained models)
-│-- 📄 requirements.txt
-│-- 📄 churn_prediction.py
+📦 Resume Classifier
+├── 📂 Raw Resumes                # Folder containing raw resume PDFs
+├── 📂 Resume                     # Processed resumes directory
+├── 📜 README.md                   # Project documentation
+├── 📜 best_clf.pkl                # Trained classifier model
+├── 📜 requirements.txt            # Dependencies and requirements
+├── 📜 resume_categorization.ipynb # Jupyter Notebook for analysis
+├── 📜 script.py                   # Main script for resume classification
+├── 📜 tfidf.pkl                    # TF-IDF vectorizer model
 ```
 
 
